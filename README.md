@@ -1,5 +1,5 @@
 # 瑞吉外卖
-
+技术栈：springboot+mybatisplus+redis+springcache+vue+element-ui+ajax+lombok
 后台管理页面展示
 
 登录
